@@ -10,6 +10,7 @@ using OpenQA.Selenium.Chrome;
 
 namespace DEMO
 {
+/* example */
     public class Test
     {
         IWebDriver d;
